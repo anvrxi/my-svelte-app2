@@ -1,7 +1,6 @@
-<script lang="ts">
+<!--script lang="ts">
 	import welcomeFallback from '$lib/images/svelte-welcome.png';
 	import welcome from '$lib/images/svelte-welcome.webp';
-
 	import Counter from './Counter.svelte';
 </script>
 
@@ -57,4 +56,7 @@
 		top: 0;
 		display: block;
 	}
-</style>
+</style-->
+<h1 class="text-3xl font-bold underline">
+	Hello world!
+</h1>
